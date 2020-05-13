@@ -13,6 +13,7 @@
 		6F354C26246BEA0800983287 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F354C24246BEA0800983287 /* Main.storyboard */; };
 		6F354C28246BEA0900983287 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F354C27246BEA0900983287 /* Assets.xcassets */; };
 		6F354C2B246BEA0900983287 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F354C29246BEA0900983287 /* LaunchScreen.storyboard */; };
+		6F354C33246BEA9800983287 /* Bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6F354C32246BEA9800983287 /* Bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6F354C27246BEA0900983287 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F354C2A246BEA0900983287 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F354C2C246BEA0900983287 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F354C32246BEA9800983287 /* Bundle */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		6F354C1D246BEA0800983287 /* ProjectRepoB */ = {
 			isa = PBXGroup;
 			children = (
+				6F354C32246BEA9800983287 /* Bundle */,
 				6F354C1E246BEA0800983287 /* AppDelegate.swift */,
 				6F354C20246BEA0800983287 /* SceneDelegate.swift */,
 				6F354C22246BEA0800983287 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F354C33246BEA9800983287 /* Bundle in Resources */,
 				6F354C2B246BEA0900983287 /* LaunchScreen.storyboard in Resources */,
 				6F354C28246BEA0900983287 /* Assets.xcassets in Resources */,
 				6F354C26246BEA0800983287 /* Main.storyboard in Resources */,
